@@ -6,7 +6,8 @@
 
 ## 🔗 Links do Projeto
 
-*   **📖 [Ler Revista Interativa (Flipbook)](https://www.flipsnack.com/5A88F59BDC9/revista-gamemania)** — Experimente a revista com o efeito real de folhear as páginas direto no navegador.
+*   **📖 [Ler Revista Interativa (Flipsnack)](https://www.flipsnack.com/5A88F59BDC9/revista-gamemania)** — Experimente a revista com o efeito real de folhear as páginas direto no navegador.
+*   **📖 [Ler Revista Interativa (FlipHTML5)](https://online.fliphtml5.com/tioviga/Revista/)** — Experimente a revista com o efeito real de folhear as páginas direto no navegador.
 *   **📐 [Arquivo de Origem (Figma)](https://www.figma.com/design/uGFQ3OHIBFjYHx8gzN3Mao/Revista?node-id=0-1&t=rwrFjT4g7agP0E1L-1)** — Inspecione o layout, as pranchetas e o guia de estilos do projeto.
 *   **💾 [Download da Revista (Google Drive)](https://drive.google.com/file/d/1fm_IQx4r6cnfrTRM207ratetbfWR1OBk/view?usp=sharing)** — Baixe a versão final da revista em formato PDF de alta resolução.
 
@@ -36,21 +37,22 @@ O ecossistema cromático baseia-se no contraste entre a profundidade dos display
 
 ## 📖 Estrutura de Conteúdo e Flatplan
 
-A revista foi planejada milimetricamente para cumprir o limite de 20 páginas, mantendo um ritmo editorial fluido:
+A revista foi planejada milimetricamente para cumprir o limite de 16 páginas, mantendo um ritmo editorial fluido:
 
-*   **Páginas 01 - 03:** Capa de impacto, Editorial (inspirado em caixas de diálogo de RPG) e Índice Dinâmico.
-*   **Páginas 04 - 07 (Radar & Notícias):** Drops visuais de atualidades, apresentando novidades de *God of War Laufey*, *Marvel's Wolverine* e a nova adaptação cinematográfica de *Mortal Kombat*.
-*   **Páginas 08 - 09 (Matéria Especial):** Um panorama focado no fenômeno *GTA VI*, utilizando sínteses precisas sobre narrativa, mapa e o impacto das mecânicas digitais no mundo aberto.
-*   **Páginas 10 - 11 (Guia de Conquistas):** Um detonado visual voltado para o perfil de jogador *completionist*, trazendo um checklist minimalista de itens e múltiplos finais para *Silent Hill 2 Remake*.
-*   **Páginas 12 - 13 (Top 10 - Plot Twists):** Um ranking invertido de alta expectativa. A página da esquerda constrói o clima do 10º ao 4º lugar através de uma tabela limpa estilo *leaderboard*; a página da direita choca o leitor com o 1º lugar ocupando tela cheia.
-*   **Páginas 14 - 20:** Seções dedicadas a Reviews detalhados com gráficos de notas no formato de barras de HP e encerramento na contracapa.
+*   **Páginas 01 - 03:** Capa de impacto, Propaganda e Sumário.
+*   **Páginas 04 - 05 (Radar & Notícias):** Drops visuais de atualidades, apresentando novidades de *God of War Laufey* e *Marvel's Wolverine*.
+*   **Páginas 06 - 09 (Review):** Drops visuais de atualidades, apresentando novidades de *Resident Evil: Requiem* e *Mortal Kombat II*.
+*   **Páginas 10 - 11 (Matéria Especial):** Um panorama focado no fenômeno *GTA VI*, utilizando sínteses precisas sobre narrativa, mapa e o impacto das mecânicas digitais no mundo aberto.
+*   **Páginas 12 - 13 (Guias):** Artes que agrupam todos os puzzles e suas soluções dos jogos *Resident Evil 4 Remake* e *Resident Evil: Requiem*.
+*   **Páginas 14 - 15 (Top 10 - Plot Twists):** Um ranking invertido de alta expectativa. A página da esquerda constrói o clima do 10º ao 4º lugar através de uma tabela limpa; a página da direita com o 1º lugar ocupando tela cheia.
+*   **Páginas 16:** Contracapa.
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
 *   **Figma:** Criação do Guia de Estilos, componentes analógicos, tratamento vetorial e diagramação das pranchetas individuais de forma nativa.
-*   **Plataformas de Flipbook (Heyzine / FlipHTML5):** Conversão do arquivo PDF exportado do Figma para a renderização da experiência de folhear digitalmente.
+*   **Plataformas de Flipbook (FlipSnack / FlipHTML5):** Conversão do arquivo PDF exportado do Figma para a renderização da experiência de folhear digitalmente.
 
 
 ---
@@ -63,7 +65,7 @@ Este projeto foi desenvolvido estritamente como um estudo de caso acadêmico e d
 Para garantir a máxima fidelidade a uma publicação profissional, os recursos visuais foram obtidos de fontes oficiais e legítimas de divulgação:
 *   **Materiais Oficiais de Divulgação (Press Kits):** As imagens promocionais de alta definição (incluindo capturas do *State of Play*) foram extraídas diretamente dos materiais oficiais distribuídos pelas respectivas produtoras. Todas as marcas d'água institucionais originais foram preservadas.
 *   **Capturas de Tela Próprias (Screenshots):** Parte do material visual de apoio reflete registros autorais capturados diretamente durante sessões de jogabilidade pessoais.
-*   **Infográficos da Comunidade (Seção de Guias):** Os guias visuais e esquemáticos de puzzles utilizados na seção de detonado são de autoria do usuário **u/NomeDoUsuario** (via Reddit). Em conformidade com as boas práticas de autoria comunitária, as marcas d'água originais do criador foram mantidas intactas no layout.
+*   **Infográficos da Comunidade (Seção de Guias):** Os guias visuais e esquemáticos de puzzles utilizados na seção de detonado são de autoria do usuário **u/Dibilowas** (via Reddit). Em conformidade com as boas práticas de autoria comunitária, as marcas d'água originais do criador foram mantidas intactas no layout.
 
 ### 📢 Natureza dos Espaços Publicitários
 Seguindo a risca a identidade das mídias impressas dos anos 2000, esta revista digital simula páginas de anúncios publicitários. Esclarece-se que tais peças possuem caráter **estritamente estético e fictício**, servindo apenas como exercício de composição de layout e ambientação de época, sem qualquer vínculo comercial real com as marcas exibidas.
